@@ -1,4 +1,4 @@
-# Software Engineering Project - ServicX Mobile App
+# Software Engineering Project - ServiceX Mobile App
 
 Technician Finder Mobile Application
 
